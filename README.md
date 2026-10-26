@@ -1,3 +1,5 @@
+> **This repository has moved.** Rekt UI now lives in one repository: [tenilmurat/rekt-ui](https://github.com/tenilmurat/rekt-ui) — this project is [`apps/web`](https://github.com/tenilmurat/rekt-ui/tree/main/apps/web). This one is archived and read-only.
+
 # rektui-frontend
 
 The website for **Rekt UI**: a curated library of interface and motion components,
